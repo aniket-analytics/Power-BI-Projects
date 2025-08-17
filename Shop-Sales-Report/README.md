@@ -20,11 +20,11 @@ The dashboard allows businesses to track **KPIs, profit/loss trends, sales by ca
 
 - **Category & Sub-Category Insights**  
   - Clothing, Electronics, and Furniture analysis  
-  - Top profitable sub-categories: Printers, Bookcases, Saree  
+  - Top profitable sub-categories: Printers, Bookcases, Saree, Accessories.
 
 - **Geographic Analysis**  
   - Sales & Profit distribution across Indian states  
-  - Maharashtra, Karnataka, and MP contributing the highest sales  
+  - Maharashtra, Madhya Pradesh, and MP contributing the highest sales  
 
 - **Customer Behavior**  
   - Quantity distribution by category (Pie chart)  
@@ -39,9 +39,8 @@ The dashboard allows businesses to track **KPIs, profit/loss trends, sales by ca
 
 ## 🛠 Tools & Technologies
 
-- **Power BI Desktop** – Data visualization & dashboard building  
+- **Power BI Desktop** – Data Modeling, Visualization & Dashboard Building  
 - **Excel/CSV Data** – Source files for sales and profit data  
-- **DAX** – Used for calculated measures & KPIs  
 
 ---
 
@@ -50,6 +49,6 @@ The dashboard allows businesses to track **KPIs, profit/loss trends, sales by ca
 - **Clothing & Electronics** are top-performing categories (~$13K each).  
 - **Printers** generated the highest profit among sub-categories ($8.6K).  
 - **Maharashtra** leads in sales among all states.  
-- Some months (e.g., July & August) reported **negative profit**, indicating areas for cost optimization.  
+- Some months (e.g., May & july) reported **negative profit**, indicating areas for cost optimization.  
 
 ---
