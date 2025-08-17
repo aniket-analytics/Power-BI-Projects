@@ -27,7 +27,7 @@ The dashboard allows businesses to track **KPIs, profit/loss trends, sales by ca
   - Maharashtra, Madhya Pradesh, and MP contributing the highest sales  
 
 - **Customer Behavior**  
-  - Quantity distribution by category (Pie chart)  
+  - Quantity distribution by category (Donut chart)  
   - Profit breakdown by different product categories  
 
 ---
