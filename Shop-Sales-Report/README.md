@@ -63,5 +63,11 @@ This dashboard helps businesses:
 
 ---
 
-- [LinkedIn](https://www.linkedin.com/in/aniket-yadav-/)  
-- 📧 andyyadav12@gmail.com
+## Author - Aniket Yadav
+
+This project is part of my portfolio to showcase data analysis using SQL.
+
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/aniket-yadav-/)
+- **Gmail**: [Connect with me professionally](mailto:andyyadav12@gmail.com)
+
+Thank you for your support, and I look forward to connecting with you!
