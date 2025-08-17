@@ -39,7 +39,7 @@ The dashboard allows businesses to track **KPIs, profit/loss trends, sales by ca
 
 ## 🛠 Tools & Technologies
 
-- **Power BI Desktop** – Data Modeling, Visualization & Dashboard Building  
+- **Power BI Desktop** – Data Transformation, Visualization & Dashboard Building  
 - **Excel/CSV Data** – Source files for sales and profit data  
 
 ---
@@ -65,7 +65,7 @@ This dashboard helps businesses:
 
 ## Author - Aniket Yadav
 
-This project is part of my portfolio to showcase data analysis and visualisation using Power BI.
+This project is part of my portfolio to showcase data analysis and visualization using Power BI.
 
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/aniket-yadav-/)
 - **Gmail**: [Connect with me professionally](mailto:andyyadav12@gmail.com)
