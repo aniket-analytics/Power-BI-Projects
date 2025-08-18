@@ -6,3 +6,10 @@ This repository showcases my ability to transform raw data into meaningful, inte
 - **Power BI Desktop**  
 - **Excel (Data Source)**  
 - **Power Query**
+
+## Author - Aniket Yadav
+
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/aniket-yadav-/)
+- **Gmail**: [Connect with me professionally](mailto:andyyadav12@gmail.com)
+
+Thank you for your support, and I look forward to connecting with you!
