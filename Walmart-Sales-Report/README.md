@@ -34,7 +34,7 @@ The dashboard enables businesses to monitor **KPIs, profit & loss trends, top-pe
 
 ## 📸 Dashboard Preview
 
-![Walmart Sales Dashboard](./Walmart_Dashboard.png)
+![Walmart Sales Dashboard](./Walmart_Dashboard.jpg)
 
 ---
 
