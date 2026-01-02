@@ -34,7 +34,7 @@ The dashboard supports **data-driven decision-making** by providing insights int
 
 ## 📸 Dashboard Preview
 
-![Walmart Sales Dashboard](./Walmart_Dashboard.png)
+![Walmart Sales Dashboard](./Walmart_Dashboard.jpg)
 
 ---
 
