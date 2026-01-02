@@ -1,6 +1,6 @@
 # 📊 Superstore Sales Analysis Dashboard (Power BI)
 
-This project is a **Power BI Superstore Sales Analysis Dashboard** focused on understanding large-scale retail sales performance, customer segments, product trends, and regional contributions.
+This project is a **Power BI Superstore Sales Analysis Dashboard** focused on analyzing large-scale retail sales performance, customer segments, product trends, and regional contributions using Superstore sales data.
 
 The dashboard supports **data-driven decision-making** by providing insights into revenue growth, customer behavior, and regional sales performance.
 
@@ -51,10 +51,10 @@ The dashboard supports **data-driven decision-making** by providing insights int
 
 ## 📈 Insights
 
-- The West region contributes the highest share of total sales.
-- The Consumer segment dominates overall revenue.
-- Sales show a consistent upward trend over multiple years.
-- A few products generate recurring losses, indicating optimization opportunities.
+- The **West region** contributes the highest share of total sales.
+- The **Consumer segment** dominates overall revenue.
+- Sales show a **consistent upward trend** from 2015 to 2019.
+- Certain products generate recurring losses, indicating optimization opportunities.
 - Customer concentration significantly impacts total revenue.
 
 ---
