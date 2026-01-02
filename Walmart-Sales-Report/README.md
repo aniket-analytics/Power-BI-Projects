@@ -1,6 +1,6 @@
 # 📊 Walmart Sales Analysis Dashboard (Power BI)
 
-This project is a **Power BI Walmart Sales Analysis Dashboard** built to analyze sales performance, profitability, customer behavior, and regional trends using the Walmart sales data.
+This project is a **Power BI Walmart Sales Analysis Dashboard** built to analyze sales performance, profitability, customer behavior, and geographic trends using Walmart retail data.
 
 The dashboard enables businesses to monitor **KPIs, profit & loss trends, top-performing products, customer insights, and city-wise performance** through interactive visuals.
 
@@ -8,7 +8,7 @@ The dashboard enables businesses to monitor **KPIs, profit & loss trends, top-pe
 
 > ⚠️ **Note:**  
 > The original dataset used for this project is no longer available as this dashboard was created earlier for learning purposes.  
-> The attached PDF showcases the final dashboard and insights to demonstrate analytical skills and Power BI expertise.
+> The attached PDF/image showcases the final dashboard and insights to demonstrate analytical skills and Power BI expertise.
 
 ## 🚀 Key Features
 
@@ -45,7 +45,7 @@ The dashboard enables businesses to monitor **KPIs, profit & loss trends, top-pe
 ## 🛠 Tools & Technologies
 
 - **Power BI Desktop** – Data modeling, DAX, dashboard creation
-- **Walmart Sales Dataset** – Retail transactional data
+- **Retail Sales Dataset (Walmart)** – Transactional sales data
 
 ---
 
@@ -54,7 +54,7 @@ The dashboard enables businesses to monitor **KPIs, profit & loss trends, top-pe
 - Canon and Fellowes products contribute significantly to total profit.
 - Certain products consistently generate losses, indicating pricing or cost issues.
 - Los Angeles and Seattle are among the top profit-generating cities.
-- Delivery performance is stable with an average of 4 days.
+- Delivery performance remains stable with an average of 4 days.
 - A small group of customers contributes a large share of total revenue.
 
 ---
@@ -62,7 +62,7 @@ The dashboard enables businesses to monitor **KPIs, profit & loss trends, top-pe
 ## 🎯 Conclusion
 
 This dashboard helps businesses to:
-- Track overall **sales and profitability**
+- Track **sales and profitability**
 - Identify **high- and low-performing products**
 - Understand **customer concentration**
 - Improve **regional decision-making**
@@ -74,6 +74,6 @@ This dashboard helps businesses to:
 **Aniket Yadav**
 
 - **LinkedIn**: https://www.linkedin.com/in/aniket-yadav-/
-- **Email**: andyyadav12@gmail.com
+- **Email**: aniket.analytics1210@gmail.com
 
 ⭐ If you like this project, feel free to star the repository!
