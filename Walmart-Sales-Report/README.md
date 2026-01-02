@@ -6,6 +6,10 @@ The dashboard enables businesses to monitor **KPIs, profit & loss trends, top-pe
 
 ---
 
+> ⚠️ **Note:**  
+> The original dataset used for this project is no longer available as this dashboard was created earlier for learning purposes.  
+> The attached PDF showcases the final dashboard and insights to demonstrate analytical skills and Power BI expertise.
+
 ## 🚀 Key Features
 
 - **KPIs Overview**
