@@ -8,7 +8,7 @@ The dashboard supports **data-driven decision-making** by providing insights int
 
 > ⚠️ **Note:**  
 > The original dataset used for this project is no longer available as this dashboard was created earlier for learning purposes.  
-> The attached PDF showcases the final dashboard and insights to demonstrate analytical skills and Power BI expertise.
+> The attached image showcases the final dashboard and insights to demonstrate analytical skills and Power BI expertise.
 
 ## 🚀 Key Features
 
