@@ -34,7 +34,7 @@ The dashboard enables businesses to monitor **KPIs, profit & loss trends, top-pe
 
 ## 📸 Dashboard Preview
 
-![Superstore Sales Dashboard](./Superstore_Dashboard.png)
+![Superstore Sales Dashboard](./Superstore_Dashboard.jpg)
 
 ---
 
