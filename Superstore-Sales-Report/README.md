@@ -1,34 +1,34 @@
-# 📊 Superstore Sales Analysis Dashboard (Power BI)
+# 📊 Walmart Sales Analysis Dashboard (Power BI)
 
-This project is a **Power BI Superstore Sales Analysis Dashboard** built to analyze sales performance, profitability, customer behavior, and regional trends using the Superstore sales data.
+This project is a **Power BI Walmart Sales Analysis Dashboard** focused on understanding large-scale retail sales performance, customer segments, product trends, and regional contributions.
 
-The dashboard enables businesses to monitor **KPIs, profit & loss trends, top-performing products, customer insights, and city-wise performance** through interactive visuals.
+The dashboard supports **data-driven decision-making** by providing insights into revenue growth, customer behavior, and regional sales performance.
 
 ---
 
 ## 🚀 Key Features
 
 - **KPIs Overview**
-  - **Total Sales**: $725.46K
-  - **Total Profit**: $108.42K
-  - **Total Orders**: 3,203
+  - **Total Sales**: $2.26M
+  - **Total Orders**: 9,800
+  - **Average Sales per Order**: $230.77
   - **Average Delivery Days**: 4
 
 - **Time-based Analysis**
-  - Year-wise sales and profit trends (2011–2014)
-  - Performance comparison across years
+  - Year-wise sales trend (2015–2019)
+  - Growth pattern across multiple years
 
-- **Product Analysis**
-  - Top 5 profit-generating products
-  - Top 5 loss-making products
+- **Product Performance**
+  - Top 5 profitable products
+  - Top 5 loss-generating products
 
-- **Customer Analysis**
-  - Top customers by total sales
-  - Revenue contribution by high-value customers
+- **Customer & Segment Analysis**
+  - Sales by segment: Consumer, Corporate, Home Office
+  - Top customers by revenue contribution
 
-- **Geographic Analysis**
-  - Top profit and loss cities
-  - City-level sales and profit distribution
+- **Regional Analysis**
+  - Sales by region: West, East, Central, South
+  - Regional contribution to total revenue
 
 ---
 
@@ -40,28 +40,28 @@ The dashboard enables businesses to monitor **KPIs, profit & loss trends, top-pe
 
 ## 🛠 Tools & Technologies
 
-- **Power BI Desktop** – Data modeling, DAX, dashboard creation
-- **Superstore Sales Dataset** – Retail transactional data
+- **Power BI Desktop** – Data cleaning, DAX measures, visualization
+- **Retail Sales Dataset (Walmart)** – Transaction-level sales data
 
 ---
 
 ## 📈 Insights
 
-- Canon and Fellowes products contribute significantly to total profit.
-- Certain products consistently generate losses, indicating pricing or cost issues.
-- Los Angeles and Seattle are among the top profit-generating cities.
-- Delivery performance is stable with an average of 4 days.
-- A small group of customers contributes a large share of total revenue.
+- The West region contributes the highest share of total sales.
+- The Consumer segment dominates overall revenue.
+- Sales show a consistent upward trend over multiple years.
+- A few products generate recurring losses, indicating optimization opportunities.
+- Customer concentration significantly impacts total revenue.
 
 ---
 
 ## 🎯 Conclusion
 
 This dashboard helps businesses to:
-- Track overall **sales and profitability**
-- Identify **high- and low-performing products**
-- Understand **customer concentration**
-- Improve **regional decision-making**
+- Monitor **sales growth and trends**
+- Analyze **customer segment behavior**
+- Identify **regional strengths and weaknesses**
+- Optimize **product and pricing strategies**
 
 ---
 
@@ -72,5 +72,4 @@ This dashboard helps businesses to:
 - **LinkedIn**: https://www.linkedin.com/in/aniket-yadav-/
 - **Email**: aniket.analytics1210@gmail.com
 
-⭐ If you like this project, feel free to star the repository!
-
+⭐ Feel free to explore, fork, or star the repository!
