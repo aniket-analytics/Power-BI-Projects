@@ -1,6 +1,6 @@
-# 📊 Walmart Sales Analysis Dashboard (Power BI)
+# 📊 Superstore Sales Analysis Dashboard (Power BI)
 
-This project is a **Power BI Walmart Sales Analysis Dashboard** focused on understanding large-scale retail sales performance, customer segments, product trends, and regional contributions.
+This project is a **Power BI Superstore Sales Analysis Dashboard** focused on understanding large-scale retail sales performance, customer segments, product trends, and regional contributions.
 
 The dashboard supports **data-driven decision-making** by providing insights into revenue growth, customer behavior, and regional sales performance.
 
@@ -41,7 +41,7 @@ The dashboard supports **data-driven decision-making** by providing insights int
 ## 🛠 Tools & Technologies
 
 - **Power BI Desktop** – Data cleaning, DAX measures, visualization
-- **Retail Sales Dataset (Walmart)** – Transaction-level sales data
+- **Retail Sales Dataset (Superstore)** – Transaction-level sales data
 
 ---
 
