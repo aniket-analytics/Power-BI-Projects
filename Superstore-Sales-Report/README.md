@@ -5,6 +5,7 @@ This project is a **Power BI Superstore Sales Analysis Dashboard** focused on un
 The dashboard supports **data-driven decision-making** by providing insights into revenue growth, customer behavior, and regional sales performance.
 
 ---
+
 > ⚠️ **Note:**  
 > The original dataset used for this project is no longer available as this dashboard was created earlier for learning purposes.  
 > The attached PDF showcases the final dashboard and insights to demonstrate analytical skills and Power BI expertise.
