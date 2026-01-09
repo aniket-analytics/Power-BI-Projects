@@ -43,7 +43,7 @@ The dashboard focuses on transforming raw transactional data into **actionable b
 
 ## 📸 Dashboard Preview
 
-![Amazon Sales Dashboard](https://raw.githubusercontent.com/aniket-analytics/Power-BI-Projects/main/Amazon-Sales-Dashboard/AmazonDashboard.png)
+![Amazon Sales Dashboard](https://raw.githubusercontent.com/aniket-analytics/Power-BI-Projects/main/Amazon-Sales-Dashboard/AmazonDashboard.jpg)
 
 *(Update image path as per your repository structure)*
 
