@@ -104,3 +104,33 @@ This data modeling approach ensured **accurate aggregation, filtering, and drill
   - Excel & CSV-based Amazon datasets  
 
 ---
+
+## 📈 Key Insights
+
+- **Maharashtra** contributes the highest overall sales among all states.  
+- **Bengaluru and Hyderabad** are the top-performing cities by revenue.  
+- Apparel products show **high unit sales with comparatively higher return volumes**.  
+- Products with higher review counts tend to generate **stronger sales performance**.  
+- Sales trends show **seasonal variation** across months.  
+
+---
+
+## 🎯 Business Value
+
+This dashboard enables stakeholders to:
+- Monitor **overall e-commerce performance**  
+- Identify **top-performing products and regions**  
+- Track **returns and fulfillment efficiency**  
+- Support **data-driven decisions** for sales, logistics, and marketing teams  
+
+---
+
+## 👤 Author – Aniket Yadav
+
+This project is part of my **Data Analytics & Business Intelligence portfolio**, showcasing hands-on expertise in **Power BI, data modeling, joins, DAX, and dashboard storytelling**.
+
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/aniket-yadav-/)
+- **Gmail**: [andyyadav12@gmail.com](mailto:andyyadav12@gmail.com)
+
+Thank you for visiting this repository! ⭐  
+Feel free to share feedback or suggestions.
