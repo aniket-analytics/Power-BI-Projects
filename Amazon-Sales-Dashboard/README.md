@@ -45,8 +45,6 @@ The dashboard focuses on transforming raw transactional data into **actionable b
 
 ![Amazon Sales Dashboard](https://raw.githubusercontent.com/aniket-analytics/Power-BI-Projects/main/Amazon-Sales-Dashboard/AmazonDashboard.jpg)
 
-*(Update image path as per your repository structure)*
-
 ---
 
 ## 🛠 Tools & Technologies
@@ -91,4 +89,3 @@ This project is part of my **Data Analytics & Business Intelligence portfolio**,
 
 Thank you for visiting this repository! ⭐  
 Feel free to share feedback or suggestions.
-
